@@ -84,7 +84,6 @@ const showCharacter = (characteres) => {
 };
 
 
-
 const characterDetails = (id) => {
   // console.log(id)
   window.location.href = `./pages/character.html?id=${id}`
